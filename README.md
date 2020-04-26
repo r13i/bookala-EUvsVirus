@@ -93,4 +93,3 @@ Please note that it is not possible to open the app via a browser on desktop/lap
 
 ## The URL to the pitchvideo
 
-[![Video Pitching of the application](https://img.youtube.com/vi/SIaFtAKnqBU/0.jpg)](https://www.youtube.com/watch?v=SIaFtAKnqBU)
