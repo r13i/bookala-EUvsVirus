@@ -3,6 +3,8 @@ Non-profit mobile app to match isolated help seekers with volunteers to deliver 
 
 Submited for the [#EUvsVirus](https://euvsvirus.org/) hackathon from the 24th to the 26th of April 2020.
 
+Posted on the submission platform DevPost at [this link](https://devpost.com/software/bookala).
+
 ## Table of Contents
 1. [The problem your project solves](#The-problem-your-project-solves)
 2. [The solution you bring to the table](#The-solution-you-bring-to-the-table)
